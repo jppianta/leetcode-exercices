@@ -15,3 +15,4 @@ bool has_cycle(SinglyLinkedListNode* head) {
  
 }
  
+int main()
