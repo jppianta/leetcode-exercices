@@ -1,3 +1,4 @@
+# Cycle Detection
 <div class="challenge_problem_statement"><div class="msB challenge_problem_statement_body"><div class="hackdown-content"><p>A linked list is said to contain a <em>cycle</em> if any node is visited more than once while traversing the list.  Given a pointer to the head of a linked list, determine if it contains a cycle.  If it does, return <span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-1-Frame"><img src="./assets/svg-0.svg" /></span>.  Otherwise, return <span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-2-Frame"><img src="./assets/svg-1.svg" /></span>.  </p>
 
 <p><strong>Example</strong>  </p>
