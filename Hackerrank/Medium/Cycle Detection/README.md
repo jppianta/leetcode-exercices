@@ -2,7 +2,7 @@
 
 <p><strong>Example</strong>  </p>
 
-<p><span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-3-Frame"><img src="./assets/svg-3.svg" /></span> refers to the list of nodes <span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-4-Frame"><img src="./assets/svg-4.svg" /></span>  </p>
+<p><span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-3-Frame"><img src="./assets/svg-3.svg?sanitize=true" /></span> refers to the list of nodes <span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-4-Frame"><img src="./assets/svg-4.svg" /></span>  </p>
 
 <p>The numbers shown are the node numbers, not their data values.  There is no cycle in this list so return <span style="font-size: 100%; display: inline-block;" class="MathJax_SVG" id="MathJax-Element-5-Frame"><img src="./assets/svg-5.svg" /></span>.  </p>
 
